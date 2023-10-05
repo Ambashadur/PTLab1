@@ -1,0 +1,16 @@
+- name: Иванов Иван Иванович
+  subjects:
+    - subject: математика
+      score: 80
+    - subject: программирование
+      score: 90
+    - subject: литература
+      score: 76
+- name: Петров Петр Петрович
+  subjects:
+    - subject: математика
+      score: 100
+    - subject: социология
+      score: 90
+    - subject: химия
+      score: 61
