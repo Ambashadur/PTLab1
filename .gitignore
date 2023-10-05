@@ -1,0 +1,6 @@
+# MacOS files
+.DS_Store
+
+# Python directories
+__pycache__/*
+tplab1-env/*
