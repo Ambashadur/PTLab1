@@ -18,3 +18,5 @@ class CalcBestStudent:
 
             if subject_ninty_count == len(self.data[fio]):
                 return fio
+            
+        return self.best_student

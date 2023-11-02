@@ -4,3 +4,7 @@
 # Python directories
 */__pycache__/*
 tplab1-env/*
+
+# Drawio files
+*.drawio.bkp
+*.drawio.dtmp
